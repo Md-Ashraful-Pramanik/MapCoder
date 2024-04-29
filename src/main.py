@@ -18,9 +18,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     "--dataset", 
     type=str, 
-    default="Human", 
+    default="HumanEval", 
     choices=[
-        "Human", 
+        "HumanEval", 
         "MBPP", 
         "APPS",
         "xCodeEval", 
