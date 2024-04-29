@@ -1,0 +1,15 @@
+# python==3.11
+openai
+numpy
+pandas
+python-dotenv
+pyyml
+tenacity
+tiktoken
+tqdm
+gensim
+jsonlines
+astunparse
+pyarrow
+google-generativeai
+accelerate

@@ -1,0 +1,9 @@
+.env
+__pycache__
+**__pycache__
+.vscode
+*workspace*
+
+samples/*
+desktop.ini
+logs/*
