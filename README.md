@@ -1,6 +1,6 @@
 # Official MapCoder Repository
-[Visit our webpage](https://md-ashraful-pramanik.github.io/mapcoder.github.io/)
-Visit our paper for more details
+- [Visit our webpage](https://md-ashraful-pramanik.github.io/mapcoder.github.io/)
+- Visit our paper for more details
 
 ## Running our project
 1. Clone our project
