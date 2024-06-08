@@ -8,7 +8,7 @@
 <p align="center">
 • 🐱 <a href="https://github.com/Md-Ashraful-Pramanik/MapCoder" target="_blank">Code</a> 
 • 📃 <a href="https://arxiv.org/abs/2405.11403" target="_blank">Paper</a>
-• 🌐 <a href="https://md-ashraful-pramanik.github.io/mapcoder.github.io/" target="_blank">Paper</a>
+• 🌐 <a href="https://md-ashraful-pramanik.github.io/mapcoder.github.io/" target="_blank">Website</a>
 </p>
 
 ## News
