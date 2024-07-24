@@ -149,7 +149,10 @@ class MapCoder(BaseStrategy):
 
     @staticmethod
     def replace_tag(text: str, tag: str):
-        return text.replace(f'<{tag}>', f'<{tag}><![CDATA[').replace(f'</{tag}>', f']]></{tag}>').strip()
+        if f'<{tag}><![CDATA[' in text and f']]></{tag}>' in text:
+            return text 
+        else:
+            return text.replace(f'<{tag}>', f'<{tag}><![CDATA[').replace(f'</{tag}>', f']]></{tag}>').strip()
 
     @staticmethod
     def get_sample_io_str(sample_io: any) -> str:

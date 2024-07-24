@@ -7,3 +7,5 @@ __pycache__
 samples/*
 desktop.ini
 logs/*
+
+test.ipynb
